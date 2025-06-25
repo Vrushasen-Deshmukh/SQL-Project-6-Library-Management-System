@@ -15,3 +15,7 @@ Task 4. Retrieve all books issued by a specific employee with emp_id = 'E101'.
 Task 5. List members who have issued more than one book.
 
 Task 6. Use CTAS to generate new tables based on query results - each book and total book_issued_count.
+
+Task 7. Retrieve all books in a specific category.
+
+Task 8. Find total rental income by category.
