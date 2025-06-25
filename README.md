@@ -4,6 +4,9 @@ This project demonstrates the implementation of a Library Management System usin
 # Objectives
 
 # Key Tasks/ Findings
+
+-- BASIC SQL OPERATIONS --
+
 Task 1. Create a new book record - "('978-1-60129-456-2', 'To Kill a Mockingbird', 'Classic', 6.00, 'yes', 'Harper Lee', 'J.B. Lippincott & Co.')".
 
 Task 2. Update an existing member's address.
@@ -13,6 +16,8 @@ Task 3. Delete a record from the issued_status_table with issued_id = 'IS121'.
 Task 4. Retrieve all books issued by a specific employee with emp_id = 'E101'.
 
 Task 5. List members who have issued more than one book.
+
+-- INTERMEDIATE SQL OPERATIONS --
 
 Task 6. Use CTAS to generate new tables based on query results - each book and total book_issued_count.
 
@@ -28,7 +33,8 @@ Task 11. Create a Table of Books with Rental Price Above a Certain Threshold.
 
 Task 12: Retrieve the List of Books Not Yet Returned.
 
-Advanced SQL Operations : 
+-- ADVANCED SQL OPERATIONS --
+
 Task 13: Identify Members with Overdue Books.
 
 Task 14: Update Book Status on Return.
