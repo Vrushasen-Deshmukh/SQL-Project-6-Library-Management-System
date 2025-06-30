@@ -25,28 +25,24 @@ Task 7. Retrieve all books in a specific category.
 
 Task 8. Find total rental income by category.
 
-Task 9. List Members Who Registered in the Last 180 Days.
+Task 9. List members who registered in the last 180 Days.
 
-Task 10. List Employees with Their Branch Manager's Name and their branch details.
+Task 10. List employees with their branch manager's name and their branch details.
 
-Task 11. Create a Table of Books with Rental Price Above a Certain Threshold.
+Task 11. Create a table of books with rental price above a certain threshold.
 
-Task 12: Retrieve the List of Books Not Yet Returned.
+Task 12: Retrieve the list of books not yet returned.
 
 -- ADVANCED SQL OPERATIONS --
 
-Task 13: Identify Members with Overdue Books.
+Task 13: Identify members with overdue books.
 
-Task 14: Update Book Status on Return.
+Task 14: Update book status on return.
 
-Task 15: Branch Performance Report.
+Task 15: Branch performance report.
 
-Task 16: CTAS: Create a Table of Active Members.
+Task 16: CTAS: Create a table of active members.
 
-Task 17: Find Employees with the Most Book Issues Processed.
+Task 17: Find employees with the most book issues processed.
 
-Task 18: Identify Members Issuing High-Risk Books.
-
-Task 19: Stored Procedure Objective: Create a stored procedure to manage the status of books in a library system.
-
-Task 20: Create Table As Select (CTAS) Objective: Create a CTAS (Create Table As Select) query to identify overdue books and calculate fines.
+Task 18: Stored Procedure Objective: Create a stored procedure to manage the status of books in a library system.
